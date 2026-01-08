@@ -96,7 +96,7 @@ The CodeGuard dataset contains **8,000 prompts**:
 ```python
 from datasets import load_dataset
 
-dataset = load_dataset("YOUR_USERNAME/codeguard-dataset")
+dataset = load_dataset("md-nishat-008/codeguard-dataset")
 ```
 
 ## 🛡️ PromptShield
