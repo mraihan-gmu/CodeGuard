@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License">
+  <img src="https://img.shields.io/badge/License-Apache 2.0-brightgreen.svg" alt="License">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/Accepted-EACL%202026%20Findings-red.svg" alt="Venue">
 </p>
