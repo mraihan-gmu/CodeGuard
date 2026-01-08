@@ -4,7 +4,7 @@
   <a href="https://huggingface.co/datasets/md-nishat-008/Do-Not-Code">
     <img src="https://img.shields.io/badge/🤗%20Dataset-Do Not Code-yellow?style=for-the-badge" alt="HuggingFace Dataset">
   </a>
-  <a href="https://huggingface.co/YOUR_USERNAME/promptshield">
+  <a href="https://huggingface.co/md-nishat-008/PromptShield">
     <img src="https://img.shields.io/badge/🤗%20Model-PromptShield-blue?style=for-the-badge" alt="HuggingFace Model">
   </a>
   <a href="https://aclanthology.org/PLACEHOLDER">
