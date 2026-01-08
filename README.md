@@ -145,26 +145,6 @@ If you use CodeGuard in your research, please cite our paper:
 }
 ```
 
-## 👥 Authors
-
-- **Nishat Raihan** - George Mason University
-- **Noah Erdachew** - University of Notre Dame
-- **Jayoti Devi** - George Mason University
-- **Joanna C. S. Santos** - University of Notre Dame
-- **Marcos Zampieri** - George Mason University
-
-## ⚠️ Ethical Considerations
-
-This research aims to improve the safety of LLMs in educational settings. The dataset contains examples of unsafe prompts for research purposes only. We encourage responsible use of these resources. Please review Section 8 of our paper for guidelines on ethical classroom deployment.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-We thank the CS instructors who contributed to the taxonomy development and the annotators who validated the dataset.
-
 ---
 
 <p align="center">
