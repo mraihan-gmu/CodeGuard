@@ -105,10 +105,6 @@ PromptShield is a RoBERTa-base encoder fine-tuned on CodeGuard for real-time pro
 
 ### Performance Comparison
 
-<p align="center">
-  <img src="figures/results.png" alt="Before/After Comparison" width="75%">
-</p>
-
 | Model | F1 Score |
 |-------|----------|
 | **PromptShield (Ours)** | **0.93** |
